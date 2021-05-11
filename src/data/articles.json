@@ -6,12 +6,6 @@
     "hero": "moroccandays.jpg"
   },
   {
-    "title": "Swedish Fishing",
-    "author": "Rachel L",
-    "category": "Leisure",
-    "hero": "autumnclouds.jpg"
-  },
-  {
     "title": "The Adventure Begins",
     "hero": "snowcup.jpg",
     "prominent": true
@@ -23,21 +17,9 @@
     "hero": "christmas.jpg"
   },
   {
-    "title": "Youthful Independence",
-    "author": "Rachel L",
-    "category": "Political",
-    "hero": "july4.jpg"
-  },
-  {
-    "title": "Trial By Fire",
-    "author": "Anthony R",
-    "category": "Cooking",
-    "hero": "firepots.jpg"
-  },
-  {
     "title": "Water Ventures",
     "author": "Rachel L",
-    "category": "Leisure",
+    "category": "Members",
     "hero": "jellyfish.jpg"
   },
   {
