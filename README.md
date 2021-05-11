@@ -1,6 +1,7 @@
 # The New YRZ Homepage
 Bubby FPV's Young Ripperzzz Official Website.
 
+The new template using Vue and updating via the Discord API for members.
 ## Project setup
 ```
 npm install
