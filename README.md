@@ -1,4 +1,5 @@
-# new-yrz-project
+# The New YRZ Homepage
+Bubby FPV's Young Ripperzzz Official Website.
 
 ## Project setup
 ```
